@@ -1,4 +1,3 @@
-
 		Flappy Bird DOS clone
 		Version: 0.02
 		Engine: WIP-2DFX
