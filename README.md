@@ -13,7 +13,7 @@
                 http://web.archive.org/web/20001027023929/http://www.egerter.com/opensource.htm
                 http://web.archive.org/web/20000606010204/http://www.egerter.com/index3.htm
 
-		License: GPL 3
+		License: GPL 2
 
 		TODO:
 		-Soundbaster Audio SDK, FLIC movie & MIDI support (currently experimenting)
