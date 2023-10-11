@@ -4,6 +4,8 @@
 		Code: Roy Massaad
 		Date: Feb 14 2021
 
+  ![](screenshot.png)
+
 		Requirements:
 		-86Box (real performance), DosBox
 		-486DX2 66mhz+, Emulated or Real Machine + VGA card 320x200 256 colors
